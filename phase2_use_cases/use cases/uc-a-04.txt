@@ -1,4 +1,4 @@
-use case 1: Изтриване на резервация от лектор
+use case 4: Изтриване на резервация от лектор
 scope: N/A
 level: user-goal
 primary actor: лектор
