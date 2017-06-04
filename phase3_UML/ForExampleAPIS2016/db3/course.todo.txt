@@ -1,0 +1,77 @@
+2016-04-11	Проект.Част 1: Визия. Интервюта. CD модели: Flow, Sequence, Artifact
+2016-05-09	Проект: Част 2: Use case model. Списък UC. Шаблони за UC.
+			Няколко развити UC. (F)URPS+
+2016-06-06	Проект. Част 3: Окончателна визия за проекта. Домейн модел. 
+			(F)URPS+. UML Диаграми. Речник. UI
+			Индивидуални проекти. (Съгласно изискванията, публикувани в Мудъл).
+
+Общи, задължителни:
+	part1:
+		Визия
+		CD модели: Flow, Sequence, Artifact
+	part2:
+		Use case модел
+		Списък UC: Списък потребителски случаи, подредени по реда на тяхната реализация
+		Няколко развити UC: Описания на потребителски случаи (Use cases)
+		Допълнителни изисквания (F)URPS+
+	part3:
+		Окончателна визия за проекта
+		Домейн модел
+		(F)URPS+
+		UML Диаграми: Допълнителни диаграми – sequence, communication , activity, state
+		Речник
+		UI: Прототип на потребителския интерфейс
+		План на итерациите – брой, продължителност, срокове
+
+Допълнителни:
+	Кратки описания на останалите use cases
+	Други диаграми (package, deployment...)
+	Предложение за tools, DB,...
+	Софтуерна архитектура
+
+Индивидуални. Всеки студент:
+	- Участва в реално интервю
+	- Създава поне 1 CD модел
+	- Описва 2 потребителски случая в пълен (fully dressed) формат
+	- Създава поне 1 диаграма на взаимодействието (sequence & communication diagram ) или activity диаграма или state диаграма или class диаграма
+	- Участва в определянето на модела на потребителските случаи или домейн модела или потребителския интерфейс
+
+-----------------
+
+Magic words от Анджи:
+
+Business Modeling				Domain Model
+------------------------------------------------------------
+Requirements					Use-Case Model
+								Vision
+								Supplementary Specification
+								Glossary
+------------------------------------------------------------
+Design							Design Model
+								SW Architecture Document
+								Data Model
+------------------------------------------------------------
+Implementation					Implementation Model
+------------------------------------------------------------
+Project Management				SW Development Plan
+------------------------------------------------------------
+Testing							Test Model
+------------------------------------------------------------
+Environment						Development Case
+------------------------------------------------------------
+
+
+
+FURPS:
+	- Functional
+	- Usability
+	- Reliability
+	- Performance
+	- Supportability
+
+FURPS+:
+	- Implementation - resource limitation, languages and tools, hardware
+	- Interface - constraints imposed by interfacing with external systems
+	- Operations - system management in its operational setting
+	- Packaging
+	- Legal - licensing

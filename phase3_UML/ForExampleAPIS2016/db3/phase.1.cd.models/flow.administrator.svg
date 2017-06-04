@@ -1,0 +1,1193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448"
+   height="524.40942"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="flow.administrator.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4772"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path4774"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4654"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path4656"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4577"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path4580"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4507"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path4509"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4443"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path4445"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4385"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path4387"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4333"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path4335"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;">
+      <path
+         id="path4600"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path4579"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker9106"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path9108"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker9106-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path9108-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="417.68638"
+     inkscape:cy="296.45601"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-global="true"
+     inkscape:object-paths="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1158"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:snap-grids="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-527.95272)">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gentium;-inkscape-font-specification:Gentium"
+       x="330.31989"
+       y="221.36366"
+       id="text2992"
+       sodipodi:linespacing="125%"
+       transform="translate(0,527.95272)"><tspan
+         sodipodi:role="line"
+         id="tspan2994"
+         x="330.31989"
+         y="221.36366" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="329.30972"
+       y="202.17076"
+       id="text2996"
+       sodipodi:linespacing="125%"
+       transform="translate(0,527.95272)"><tspan
+         sodipodi:role="line"
+         id="tspan2998"
+         x="329.30972"
+         y="202.17076" /></text>
+    <rect
+       style="fill:none"
+       id="rect3004"
+       width="177.78685"
+       height="110.10663"
+       x="46.467018"
+       y="570.84424" />
+    <g
+       id="g6881"
+       transform="translate(6,114)"
+       style="stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none">
+      <rect
+         y="768.22052"
+         x="2.6878018"
+         height="43.571465"
+         width="119.28571"
+         id="rect4061"
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="100%"
+         id="text4063"
+         y="783.22052"
+         x="7.4020805"
+         style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+         xml:space="preserve"><tspan
+           id="tspan4083"
+           sodipodi:role="line"
+           x="7.4020805"
+           y="783.22052"
+           style="font-size:11.25px;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none">Каталог с обяви</tspan><tspan
+           sodipodi:role="line"
+           x="7.4020805"
+           y="795.72052"
+           id="tspan3198"
+           style="font-size:11.25px;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none">- съдържа списък</tspan><tspan
+           sodipodi:role="line"
+           x="7.4020805"
+           y="808.22052"
+           id="tspan3202"
+           style="font-size:11.25px;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none">с обяви</tspan></text>
+    </g>
+    <g
+       id="g6871"
+       transform="matrix(0.47617755,-0.87934915,0.87934915,0.47617755,-680.84014,586.89121)"
+       style="stroke-width:1.00000001;stroke-miterlimit:4;stroke-dasharray:none">
+      <g
+         id="g6864"
+         style="stroke-width:1.00000001;stroke-miterlimit:4;stroke-dasharray:none">
+        <g
+           id="g6852"
+           transform="translate(-2,0)"
+           style="stroke-width:1.00000001;stroke-miterlimit:4;stroke-dasharray:none">
+          <g
+             id="g6825"
+             style="stroke-width:1.00000001;stroke-miterlimit:4;stroke-dasharray:none">
+            <rect
+               style="fill:none;stroke:#000000;stroke-width:1.00000592;stroke-miterlimit:4;stroke-dasharray:none"
+               id="rect4061-0"
+               width="116.03338"
+               height="22.691473"
+               x="-682.33002"
+               y="633.68335"
+               transform="matrix(-0.852111,-0.52336111,-0.52749979,0.84955516,0,0)" />
+          </g>
+        </g>
+        <text
+           transform="matrix(0.85905623,0.51188123,-0.51188123,0.85905623,0,0)"
+           sodipodi:linespacing="125%"
+           id="text4209"
+           y="657.6322"
+           x="561.41376"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;stroke-width:1.00000001;stroke-miterlimit:4;stroke-dasharray:none"
+           xml:space="preserve"><tspan
+             style="font-size:12px;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:1.00000001;stroke-miterlimit:4;stroke-dasharray:none"
+             y="657.6322"
+             x="561.41376"
+             id="tspan4211"
+             sodipodi:role="line">Данни за обявата</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;stroke-width:1.00000001;stroke-miterlimit:4;stroke-dasharray:none"
+         x="565.48694"
+         y="628.08179"
+         id="text4213"
+         sodipodi:linespacing="125%"
+         transform="matrix(0.85608149,0.51684087,-0.51684087,0.85608149,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan4215"
+           x="565.48694"
+           y="628.08179"
+           style="font-size:12px;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:1.00000001;stroke-miterlimit:4;stroke-dasharray:none">Редактира обява</tspan></text>
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4061-3-2"
+       width="179.04497"
+       height="43.214279"
+       x="533.76447"
+       y="533.65411" />
+    <text
+       xml:space="preserve"
+       style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal'"
+       x="622.80884"
+       y="546.65411"
+       id="text4063-5-9"
+       sodipodi:linespacing="100%"><tspan
+         id="tspan4323"
+         style="font-size:12px;text-align:center;text-anchor:middle"
+         y="546.65411"
+         x="622.80884"
+         sodipodi:role="line">Администраторски профил</tspan><tspan
+         id="tspan5754"
+         style="font-size:12px;text-align:center;text-anchor:middle"
+         y="558.65411"
+         x="622.80884"
+         sodipodi:role="line">- съдържа лична информация</tspan><tspan
+         id="tspan5756"
+         style="font-size:12px;text-align:center;text-anchor:middle"
+         y="570.65411"
+         x="622.80884"
+         sodipodi:role="line">за адмнистратора</tspan></text>
+    <g
+       id="g6796"
+       transform="translate(-2,-28)"
+       style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
+      <rect
+         y="875.01129"
+         x="-109.71424"
+         height="18.770306"
+         width="94.093048"
+         id="rect4061-3-2-4"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="matrix(0.71898078,-0.69502996,0.69502996,0.71898078,0,0)" />
+      <text
+         sodipodi:linespacing="100%"
+         id="text4063-5-9-5"
+         y="885.61072"
+         x="-63.266212"
+         style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+         xml:space="preserve"
+         transform="matrix(0.71898078,-0.69502996,0.69502996,0.71898078,0,0)"><tspan
+           sodipodi:role="line"
+           x="-63.266212"
+           y="885.61072"
+           style="font-size:12px;text-align:center;text-anchor:middle;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan4323-2">Лични данни</tspan></text>
+    </g>
+    <text
+       transform="matrix(0.72883205,-0.68469251,0.68469251,0.72883205,0,0)"
+       sodipodi:linespacing="125%"
+       id="text4363"
+       y="835.16156"
+       x="-45.903816"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:12px;text-align:center;text-anchor:middle;font-family:Consolas;-inkscape-font-specification:Consolas"
+         id="tspan4367"
+         y="835.16156"
+         x="-45.903816"
+         sodipodi:role="line">Редактира лични данни</tspan></text>
+    <g
+       id="g3433"
+       transform="translate(-517.85714,118.42857)"
+       style="stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none">
+      <ellipse
+         ry="57.049324"
+         rx="91.317093"
+         cy="755.46985"
+         cx="345.9252"
+         id="path4684-0"
+         style="fill:none;stroke:#000000;stroke-width:2.02795574;stroke-opacity:1;display:inline;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="matrix(0.88910192,0,0,0.61533841,303.22295,427.45973)"
+         sodipodi:cx="345.9252"
+         sodipodi:cy="755.46985"
+         sodipodi:rx="91.317093"
+         sodipodi:ry="57.049324" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3000-8"
+         y="876.22467"
+         x="606.88617"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+         xml:space="preserve"><tspan
+           style="font-size:12px;text-align:center;text-anchor:middle;-inkscape-font-specification:Consolas;font-family:Consolas;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+           y="876.22467"
+           x="606.88617"
+           id="tspan3002-8"
+           sodipodi:role="line">Нерегистриран</tspan><tspan
+           id="tspan4903"
+           style="font-size:12px;text-align:center;text-anchor:middle;-inkscape-font-specification:Consolas;font-family:Consolas;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+           y="891.22467"
+           x="606.88617"
+           sodipodi:role="line">потребител</tspan><tspan
+           style="font-size:12px;text-align:center;text-anchor:middle;-inkscape-font-specification:Consolas;font-family:Consolas;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+           y="906.22467"
+           x="606.88617"
+           sodipodi:role="line"
+           id="tspan3420">- изпраща съобщение</tspan></text>
+    </g>
+    <g
+       id="g3440"
+       transform="translate(67.56492,-31.258042)"
+       style="stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none">
+      <ellipse
+         ry="57.049324"
+         rx="91.317093"
+         cy="755.46985"
+         cx="345.9252"
+         id="path4684-0-1"
+         style="fill:none;stroke:#000000;stroke-width:2.04273165;stroke-opacity:1;display:inline;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="matrix(0.87628597,0,0,0.61533841,283.29917,578.34967)"
+         sodipodi:cx="345.9252"
+         sodipodi:cy="755.46985"
+         sodipodi:rx="91.317093"
+         sodipodi:ry="57.049324" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3000-8-3"
+         y="1029.417"
+         x="583.57922"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+         xml:space="preserve"><tspan
+           style="font-size:12px;text-align:center;text-anchor:middle;-inkscape-font-specification:Consolas;font-family:Consolas;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+           y="1029.417"
+           x="583.57922"
+           id="tspan3002-8-3"
+           sodipodi:role="line">Регистриран</tspan><tspan
+           id="tspan4903-0"
+           style="font-size:12px;text-align:center;text-anchor:middle;-inkscape-font-specification:Consolas;font-family:Consolas;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+           y="1044.417"
+           x="583.57922"
+           sodipodi:role="line">потребител</tspan><tspan
+           id="tspan3431"
+           style="font-size:12px;text-align:center;text-anchor:middle;-inkscape-font-specification:Consolas;font-family:Consolas;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+           y="1059.417"
+           x="583.57922"
+           sodipodi:role="line">- изпраща съобщение</tspan></text>
+    </g>
+    <g
+       id="g3502"
+       transform="translate(173.57143,34.571429)"
+       style="stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none">
+      <rect
+         y="844.88251"
+         x="105.58165"
+         height="43.571465"
+         width="174.65955"
+         id="rect4061-06-4-3-3"
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="100%"
+         id="text4063-6-6-7-7"
+         y="857.45398"
+         x="192.33751"
+         style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+         xml:space="preserve"><tspan
+           id="tspan4991"
+           sodipodi:role="line"
+           x="192.33751"
+           y="857.45398">Контактна форма</tspan><tspan
+           id="tspan5725"
+           sodipodi:role="line"
+           x="192.33751"
+           y="869.95398">- осигурява</tspan><tspan
+           id="tspan5729"
+           sodipodi:role="line"
+           x="192.33751"
+           y="882.45398">изпращането на съобщения</tspan></text>
+    </g>
+    <g
+       id="g3400"
+       transform="translate(-171.14285,11.428572)"
+       style="stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none">
+      <ellipse
+         ry="57.049324"
+         rx="91.317093"
+         cy="755.46985"
+         cx="345.9252"
+         id="path4684-0-1-5"
+         style="fill:none;stroke:#000000;stroke-width:2.43768303;stroke-opacity:1;display:inline;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="matrix(0.61533841,0,0,0.61533841,328.56751,537.49253)"
+         sodipodi:cx="345.9252"
+         sodipodi:cy="755.46985"
+         sodipodi:rx="91.317093"
+         sodipodi:ry="57.049324" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3000-8-3-2"
+         y="980.55994"
+         x="540.57922"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+         xml:space="preserve"><tspan
+           id="tspan4903-0-3"
+           style="font-size:12px;text-align:center;text-anchor:middle;-inkscape-font-specification:Consolas;font-family:Consolas;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+           y="980.55994"
+           x="540.57922"
+           sodipodi:role="line">Брокер</tspan><tspan
+           id="tspan5301"
+           style="font-size:12px;text-align:center;text-anchor:middle;-inkscape-font-specification:Consolas;font-family:Consolas;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+           y="995.55994"
+           x="540.57922"
+           sodipodi:role="line">- получава</tspan><tspan
+           id="tspan5709"
+           style="font-size:12px;text-align:center;text-anchor:middle;-inkscape-font-specification:Consolas;font-family:Consolas;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+           y="1010.5599"
+           x="540.57922"
+           sodipodi:role="line">препратените</tspan><tspan
+           id="tspan5711"
+           style="font-size:12px;text-align:center;text-anchor:middle;-inkscape-font-specification:Consolas;font-family:Consolas;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+           y="1025.5599"
+           x="540.57922"
+           sodipodi:role="line">съобщения</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="367.85715"
+       y="79.409424"
+       id="text3180"
+       sodipodi:linespacing="125%"
+       transform="translate(0,527.95272)"><tspan
+         sodipodi:role="line"
+         id="tspan3182"
+         x="367.85715"
+         y="79.409424" /></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4061-3-2-1"
+       width="179.04497"
+       height="43.214279"
+       x="33.077839"
+       y="533.68036" />
+    <text
+       xml:space="preserve"
+       style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal'"
+       x="122.12221"
+       y="546.68036"
+       id="text4063-5-9-58"
+       sodipodi:linespacing="100%"><tspan
+         id="tspan4323-7"
+         style="font-size:12px;text-align:center;text-anchor:middle"
+         y="546.68036"
+         x="122.12221"
+         sodipodi:role="line">Потребителски профил</tspan><tspan
+         id="tspan5754-9"
+         style="font-size:12px;text-align:center;text-anchor:middle"
+         y="558.68036"
+         x="122.12221"
+         sodipodi:role="line">- съдържа информация</tspan><tspan
+         id="tspan5756-5"
+         style="font-size:12px;text-align:center;text-anchor:middle"
+         y="570.68036"
+         x="122.12221"
+         sodipodi:role="line">за конкретен потребител</tspan></text>
+    <g
+       id="g5220"
+       transform="translate(8,-32)"
+       style="stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none">
+      <rect
+         y="567.11841"
+         x="274.02136"
+         height="43.214279"
+         width="179.04497"
+         id="rect4061-3-2-1-4"
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="100%"
+         id="text4063-5-9-58-7"
+         y="580.11841"
+         x="363.06573"
+         style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+         xml:space="preserve"><tspan
+           sodipodi:role="line"
+           x="363.06573"
+           y="580.11841"
+           style="font-size:12px;text-align:center;text-anchor:middle;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan4323-7-2">Брокерски профил</tspan><tspan
+           sodipodi:role="line"
+           x="363.06573"
+           y="592.11841"
+           style="font-size:12px;text-align:center;text-anchor:middle;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan5754-9-2">- съдържа информация</tspan><tspan
+           sodipodi:role="line"
+           x="363.06573"
+           y="604.11841"
+           style="font-size:12px;text-align:center;text-anchor:middle;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan5756-5-7">за конкретен брокер</tspan></text>
+    </g>
+    <g
+       id="g6376"
+       transform="translate(-4.000161,-21.999929)"
+       style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
+      <rect
+         y="650.20154"
+         x="233.34077"
+         height="18.770311"
+         width="139.14493"
+         id="rect4061-3-2-4-6-9"
+         style="fill:none;stroke:#000000;stroke-width:1.00000008;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="matrix(0.9999945,-0.00331696,0.00386927,0.99999251,0,0)" />
+      <text
+         sodipodi:linespacing="100%"
+         id="text4063-5-9-5-7-2"
+         y="662.04822"
+         x="309.03162"
+         style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+         xml:space="preserve"
+         transform="matrix(0.99999823,0.00187917,-0.00187917,0.99999823,0,0)"><tspan
+           sodipodi:role="line"
+           x="309.03162"
+           y="662.04822"
+           style="font-size:12px;text-align:center;text-anchor:middle;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan4323-2-1-7">Брокерски данни</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+         x="310.5979"
+         y="628.55725"
+         id="text4363-3-0"
+         sodipodi:linespacing="125%"
+         transform="matrix(0.99999469,0.0032598,-0.0032598,0.99999469,0,0)"><tspan
+           sodipodi:role="line"
+           x="313.90259"
+           y="628.55725"
+           id="tspan4367-1-5"
+           style="font-size:12px;text-align:center;text-anchor:middle;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">Редактира </tspan><tspan
+           id="tspan6374"
+           sodipodi:role="line"
+           x="310.5979"
+           y="643.55725"
+           style="font-size:12px;text-align:center;text-anchor:middle;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">брокерски профил</tspan></text>
+    </g>
+    <g
+       id="g3494"
+       transform="translate(207.42857,-63.14285)"
+       style="stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none">
+      <g
+         transform="translate(-160.78571,78.604227)"
+         id="g3433-9"
+         style="stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none">
+        <ellipse
+           sodipodi:ry="57.049324"
+           sodipodi:rx="91.317093"
+           sodipodi:cy="755.46985"
+           sodipodi:cx="345.9252"
+           transform="matrix(0.88910192,0,0,0.61533841,303.22295,427.45973)"
+           style="fill:none;stroke:#000000;stroke-width:2.02795574;stroke-opacity:1;display:inline;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path4684-0-5"
+           cx="345.9252"
+           cy="755.46985"
+           rx="91.317093"
+           ry="57.049324" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+           x="606.88617"
+           y="876.22467"
+           id="text3000-8-7"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="606.88617"
+             y="876.22467"
+             style="font-size:12px;text-align:center;text-anchor:middle;-inkscape-font-specification:Consolas;font-family:Consolas;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+             id="tspan4903-01">Мениджър</tspan><tspan
+             id="tspan3420-8"
+             sodipodi:role="line"
+             x="606.88617"
+             y="891.22467"
+             style="font-size:12px;text-align:center;text-anchor:middle;-inkscape-font-specification:Consolas;font-family:Consolas;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none">- предоставя списък</tspan><tspan
+             id="tspan3492"
+             sodipodi:role="line"
+             x="606.88617"
+             y="906.22467"
+             style="font-size:12px;text-align:center;text-anchor:middle;-inkscape-font-specification:Consolas;font-family:Consolas;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none">с брокери</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3599"
+       transform="translate(127.07098,-36.862557)"
+       style="stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none">
+      <ellipse
+         ry="57.049324"
+         rx="91.317093"
+         cy="755.46985"
+         cx="345.9252"
+         id="path4684"
+         style="fill:none;stroke:#000000;stroke-width:1.16079327;stroke-opacity:1;display:inline;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="matrix(1.6698319,0,0,1,-330.25277,33.642942)"
+         sodipodi:cx="345.9252"
+         sodipodi:cy="755.46985"
+         sodipodi:rx="91.317093"
+         sodipodi:ry="57.049324" />
+      <g
+         transform="translate(37.862218,14.881538)"
+         id="g3587"
+         style="stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none">
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+           x="98.831139"
+           y="736.17755"
+           id="text3000"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3002"
+             x="98.831139"
+             y="736.17755"
+             style="font-size:12px;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none" /><tspan
+             sodipodi:role="line"
+             x="98.831139"
+             y="751.17755"
+             style="font-size:12px;-inkscape-font-specification:Consolas;font-family:Consolas;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+             id="tspan3509">- редактира потребителски профил</tspan><tspan
+             sodipodi:role="line"
+             x="98.831139"
+             y="766.17755"
+             style="font-size:12px;-inkscape-font-specification:Consolas;font-family:Consolas;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+             id="tspan3511">- редактира брокерски профил</tspan><tspan
+             sodipodi:role="line"
+             x="98.831139"
+             y="781.17755"
+             style="font-size:12px;-inkscape-font-specification:Consolas;font-family:Consolas;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+             id="tspan3513">- редактира обява</tspan><tspan
+             sodipodi:role="line"
+             x="98.831139"
+             y="796.17755"
+             style="font-size:12px;-inkscape-font-specification:Consolas;font-family:Consolas;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+             id="tspan3515">- получава копия на съобщения</tspan><tspan
+             sodipodi:role="line"
+             x="98.831139"
+             y="811.17755"
+             style="font-size:12px;-inkscape-font-specification:Consolas;font-family:Consolas;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+             id="tspan3517">- препраща съобщения</tspan><tspan
+             sodipodi:role="line"
+             x="98.831139"
+             y="826.17755"
+             style="font-size:12px;-inkscape-font-specification:Consolas;font-family:Consolas;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+             id="tspan3455" /></text>
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+           x="156.00691"
+           y="736.04358"
+           id="text3000-9"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="156.00691"
+             y="736.04358"
+             style="font-size:12px;-inkscape-font-specification:Consolas;font-family:Consolas;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+             id="tspan3455-1">Администратор</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g6393"
+       transform="matrix(0.99845706,0.05552913,-0.05552913,0.99845706,33.617416,-72.136425)"
+       style="stroke-width:1.00000001;stroke-miterlimit:4;stroke-dasharray:none">
+      <g
+         transform="matrix(0.16287259,0.98664711,-0.98664711,0.16287259,799.72748,-27.984383)"
+         id="g3301"
+         style="stroke-width:1.00000001;stroke-miterlimit:4;stroke-dasharray:none">
+        <rect
+           transform="matrix(0.71535962,-0.69875648,0.69915148,0.71497357,0,0)"
+           style="fill:none;stroke:#000000;stroke-width:1.00000008;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect4061-3-2-4-6"
+           width="139.14493"
+           height="18.770311"
+           x="-130.54256"
+           y="948.08423" />
+        <text
+           transform="matrix(0.71898078,-0.69502996,0.69502996,0.71898078,0,0)"
+           xml:space="preserve"
+           style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+           x="-53.13443"
+           y="961.81677"
+           id="text4063-5-9-5-7"
+           sodipodi:linespacing="100%"><tspan
+             id="tspan4323-2-1"
+             style="font-size:12px;text-align:center;text-anchor:middle;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+             y="961.81677"
+             x="-53.13443"
+             sodipodi:role="line">Потребителски данни</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;stroke-width:1.00000001;stroke-miterlimit:4;stroke-dasharray:none"
+         x="561.51459"
+         y="433.91959"
+         id="text4363-3"
+         sodipodi:linespacing="125%"
+         transform="matrix(0.8127076,0.58267173,-0.58267173,0.8127076,0,0)"><tspan
+           sodipodi:role="line"
+           x="561.51459"
+           y="433.91959"
+           id="tspan4367-1"
+           style="font-size:12px;text-align:center;text-anchor:middle;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:1.00000001;stroke-miterlimit:4;stroke-dasharray:none">Редактира</tspan><tspan
+           sodipodi:role="line"
+           x="561.51459"
+           y="448.91959"
+           style="font-size:12px;text-align:center;text-anchor:middle;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:1.00000001;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan6384">потребителски профил</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-end:url(#Arrow2Lend)"
+       d="M 374.99835,695.20126 375,578.33269"
+       id="path5257"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="3" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="M 279.33198,707.65972 119.28571,576.89464"
+       id="path6404"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="3" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="M 476.58039,709.88518 622.14286,576.86838"
+       id="path6592"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="3" />
+    <g
+       id="g7195"
+       style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+         x="-329.19632"
+         y="935.0708"
+         id="text4213-1"
+         sodipodi:linespacing="125%"
+         transform="matrix(0.8749927,-0.48413611,0.48413611,0.8749927,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan4215-3"
+           x="-329.19632"
+           y="935.0708"
+           style="font-size:12px;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">Изпраща съобщение</tspan></text>
+      <g
+         transform="matrix(0.86837936,-0.49590048,0.49590048,0.86837936,-691.85443,562.74369)"
+         id="g3450-0"
+         style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
+        <rect
+           transform="matrix(0.99998855,0.00478451,4.7277213e-4,0.99999989,0,0)"
+           style="fill:none;stroke:#000000;stroke-width:1.00000691;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect4061-0-7-1-1-74-1-0"
+           width="62.17794"
+           height="22.685242"
+           x="556.82703"
+           y="796.64929" />
+        <text
+           transform="matrix(0.99994015,0.01094033,-0.01094033,0.99994015,0,0)"
+           sodipodi:linespacing="125%"
+           id="text4209-7-6-4-46-9-5"
+           y="806.302"
+           x="567.21661"
+           style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+           xml:space="preserve"><tspan
+             id="tspan4436-1-7-1-4-0"
+             style="font-size:12px;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+             y="806.302"
+             x="567.21661"
+             sodipodi:role="line">Съобщение</tspan></text>
+      </g>
+      <path
+         transform="translate(0,527.95272)"
+         inkscape:connector-curvature="3"
+         inkscape:connector-type="polyline"
+         id="path6965"
+         d="M 158.11579,461.87494 279.15308,394.60482"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9106)" />
+    </g>
+    <text
+       transform="matrix(0.87085278,0.49154393,-0.49154393,0.87085278,0,0)"
+       sodipodi:linespacing="125%"
+       id="text4213-1-0"
+       y="573.55231"
+       x="861.7326"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:12px;font-family:Consolas;-inkscape-font-specification:Consolas"
+         y="573.55231"
+         x="861.7326"
+         id="tspan4215-3-3"
+         sodipodi:role="line">Изпраща съобщение</tspan></text>
+    <g
+       id="g3450-0-9"
+       transform="matrix(0.8774071,0.47974658,-0.47974658,0.8774071,372.98979,-23.807363)"
+       style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
+      <rect
+         y="796.64929"
+         x="556.82703"
+         height="22.685242"
+         width="62.17794"
+         id="rect4061-0-7-1-1-74-1-0-1"
+         style="fill:none;stroke:#000000;stroke-width:1.00000691;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="matrix(0.99998855,0.00478451,4.7277213e-4,0.99999989,0,0)" />
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+         x="567.21661"
+         y="806.302"
+         id="text4209-7-6-4-46-9-5-6"
+         sodipodi:linespacing="125%"
+         transform="matrix(0.99994015,0.01094033,-0.01094033,0.99994015,0,0)"><tspan
+           sodipodi:role="line"
+           x="567.21661"
+           y="806.302"
+           style="font-size:12px;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan4436-1-7-1-4-0-9">Съобщение</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="M 581.45163,995.46902 451.28022,922.57237"
+       id="path6965-3"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="3" />
+    <g
+       id="g8087"
+       transform="translate(11.156934,-5.685057)"
+       style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
+      <g
+         transform="translate(-268.44534,159.55388)"
+         id="g3450"
+         style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
+        <rect
+           transform="matrix(0.99998855,0.00478451,4.7277213e-4,0.99999989,0,0)"
+           style="fill:none;stroke:#000000;stroke-width:1.00000691;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect4061-0-7-1-1-74-1"
+           width="62.17794"
+           height="22.685242"
+           x="556.82703"
+           y="796.64929" />
+        <text
+           transform="matrix(0.99994015,0.01094033,-0.01094033,0.99994015,0,0)"
+           sodipodi:linespacing="125%"
+           id="text4209-7-6-4-46-9"
+           y="806.302"
+           x="567.21661"
+           style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+           xml:space="preserve"><tspan
+             id="tspan4436-1-7-1-4"
+             style="font-size:12px;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+             y="806.302"
+             x="567.21661"
+             sodipodi:role="line">Съобщение</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+         x="295.9075"
+         y="936.28589"
+         id="text4213-1-0-3"
+         sodipodi:linespacing="125%"
+         transform="matrix(0.99997363,0.00726182,-0.00726182,0.99997363,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan4215-3-3-9"
+           x="295.9075"
+           y="936.28589"
+           style="font-size:12px;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">Получава</tspan><tspan
+           id="tspan8085"
+           sodipodi:role="line"
+           x="295.9075"
+           y="951.28589"
+           style="font-size:12px;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">съобщение</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 369.71583,395.07268 -0.96649,55.67355"
+       id="path8096"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="3"
+       transform="translate(0,527.95272)" />
+    <g
+       id="g8087-6"
+       transform="translate(-14.779852,-117.71884)"
+       style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
+      <g
+         transform="translate(-268.44534,159.55388)"
+         id="g3450-8"
+         style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
+        <rect
+           transform="matrix(0.99998855,0.00478451,4.7277213e-4,0.99999989,0,0)"
+           style="fill:none;stroke:#000000;stroke-width:1.00000691;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect4061-0-7-1-1-74-1-07"
+           width="62.17794"
+           height="22.685242"
+           x="556.82703"
+           y="796.64929" />
+        <text
+           transform="matrix(0.99994015,0.01094033,-0.01094033,0.99994015,0,0)"
+           sodipodi:linespacing="125%"
+           id="text4209-7-6-4-46-9-9"
+           y="806.302"
+           x="567.21661"
+           style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+           xml:space="preserve"><tspan
+             id="tspan4436-1-7-1-4-5"
+             style="font-size:12px;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+             y="806.302"
+             x="567.21661"
+             sodipodi:role="line">Съобщение</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+         x="295.9075"
+         y="936.28589"
+         id="text4213-1-0-3-5"
+         sodipodi:linespacing="125%"
+         transform="matrix(0.99997363,0.00726182,-0.00726182,0.99997363,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan4215-3-3-9-3"
+           x="295.9075"
+           y="936.28589"
+           style="font-size:12px;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">Получава</tspan><tspan
+           id="tspan8085-2"
+           sodipodi:role="line"
+           x="295.9075"
+           y="951.28589"
+           style="font-size:12px;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">съобщение</tspan></text>
+    </g>
+    <g
+       id="g3450-8-7"
+       transform="translate(-148.2683,52.36043)"
+       style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
+      <rect
+         y="796.64929"
+         x="556.82703"
+         height="22.685242"
+         width="62.17794"
+         id="rect4061-0-7-1-1-74-1-07-2"
+         style="fill:none;stroke:#000000;stroke-width:1.00000691;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="matrix(0.99998855,0.00478451,4.7277213e-4,0.99999989,0,0)" />
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+         x="567.21661"
+         y="806.302"
+         id="text4209-7-6-4-46-9-9-3"
+         sodipodi:linespacing="125%"
+         transform="matrix(0.99994015,0.01094033,-0.01094033,0.99994015,0,0)"><tspan
+           sodipodi:role="line"
+           x="567.21661"
+           y="806.302"
+           style="font-size:12px;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan4436-1-7-1-4-5-6">Съобщение</tspan></text>
+    </g>
+    <text
+       transform="matrix(0.99997363,0.00726182,-0.00726182,0.99997363,0,0)"
+       sodipodi:linespacing="125%"
+       id="text4213-1-0-3-5-2"
+       y="816.2229"
+       x="415.21579"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:12px;font-family:Consolas;-inkscape-font-specification:Consolas"
+         y="816.2229"
+         x="415.21579"
+         id="tspan4215-3-3-9-3-9"
+         sodipodi:role="line">Препраща</tspan><tspan
+         style="font-size:12px;font-family:Consolas;-inkscape-font-specification:Consolas"
+         y="831.2229"
+         x="415.21579"
+         sodipodi:role="line"
+         id="tspan8085-2-8">съобщение</tspan><tspan
+         style="font-size:12px;font-family:Consolas;-inkscape-font-specification:Consolas"
+         y="846.2229"
+         x="415.21579"
+         sodipodi:role="line"
+         id="tspan10024">към брокер</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 346.38586,880.77824 -0.50509,-71.04346"
+       id="path8378"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="3" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 396.03693,809.01296 0.50509,71.04346"
+       id="path8378-6"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="3" />
+    <g
+       id="g8870"
+       transform="matrix(0.99987665,0.01570601,-0.01570601,0.99987665,26.939353,5.4866134)"
+       style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+         x="797.48016"
+         y="512.85046"
+         id="text4209-4"
+         sodipodi:linespacing="125%"
+         transform="matrix(0.90203684,0.43165906,-0.43165906,0.90203684,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan4211-4"
+           x="797.48016"
+           y="512.85046"
+           style="font-size:12px;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">Списък с брокери</tspan></text>
+      <g
+         id="g8863"
+         style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
+        <g
+           id="g6852-9"
+           transform="matrix(0.99585853,-0.09091632,0.09091632,0.99585853,274.59637,-26.880882)"
+           style="stroke-width:1.00000001;stroke-miterlimit:4;stroke-dasharray:none">
+          <g
+             id="g6825-5"
+             style="stroke-width:1.00000001;stroke-miterlimit:4;stroke-dasharray:none">
+            <rect
+               style="fill:none;stroke:#000000;stroke-width:1.00000592;stroke-miterlimit:4;stroke-dasharray:none"
+               id="rect4061-0-6"
+               width="116.03338"
+               height="22.691473"
+               x="-682.33002"
+               y="633.68335"
+               transform="matrix(-0.852111,-0.52336111,-0.52749979,0.84955516,0,0)" />
+          </g>
+        </g>
+        <text
+           transform="matrix(0.89989675,0.43610302,-0.43610302,0.89989675,0,0)"
+           sodipodi:linespacing="125%"
+           id="text4213-9"
+           y="483.62256"
+           x="796.6593"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+           xml:space="preserve"><tspan
+             style="font-size:12px;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+             y="483.62256"
+             x="796.6593"
+             id="tspan4215-0"
+             sodipodi:role="line">Предоставя списък</tspan></text>
+      </g>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-end:url(#Arrow2Lend)"
+       d="M 655.7236,344.74095 491.8701,260.69889"
+       id="path8880"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="3"
+       transform="translate(0,527.95272)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="M 241.29084,252.11212 63.571429,354.2678"
+       id="path9832"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="3"
+       transform="translate(0,527.95272)" />
+  </g>
+</svg>
