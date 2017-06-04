@@ -1,0 +1,67 @@
+1. Flow - How work is divided among roles and coordinated, without regard for time
+• Individuals who do the work, shown as circles
+• Groups (sets of people), shown as circles
+• Responsibilities of the individual or the group, shown as a list in a circle
+• Flow of communication, shown as arrows and lines between individuals or groups
+• Communication topics, shown as labels on the flow lines
+• Artifacts, shown as small boxes on a flow
+• Places, shown as large boxes
+• Breakdowns in communication or coordination, shown as a red lightning bolt and annotated as necessary.
+
+2. Sequence - The order of work tasks over time
+Work tasks are ordered and unfold over time. The steps people take aren’t random;
+they happen the way they do for a purpose.
+• Triggers, described in sentences or blurbs
+• Intents, described in sentences or blurbs
+• Actions, described in sentences
+• Breakdowns in doing the steps, shown as a red lightning bolt and annotated as necessary.
+
+3. Artefact - The tangible items people create and use to help them get their work accomplished.
+People create, use and modify things in the course of doing work.
+These things become artifacts, which each tell their own stories.
+• A visual representation of the object, either drawn, photographed, or scanned
+• Presentation of the object, including relevant physical characteristics
+• Information presented by the object, such as the contents of a form
+• The structure, or grouping, of the parts of the object
+• Annotations showing informal usage of the object, such as highlighting, post-its, etc
+• A description of the object and its use, in sentences
+• Breakdowns in using the artifact, shown as a red lightning bolt and annotated as necessary.
+
+sources:
+http://www.ijdesign.org/ojs/index.php/IJDesign/article/view/341/168
+http://jonkolko.com/projectFiles/scad/IDUS215_03_Ethnography_AnalyzingData1_ContextualDesign.pdf
+https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/contextual-design
+
+
+1. Flow-модели
+1.1 Нерегистриран потребител
+1.2 Регистриран потребител
+1.3 Брокер
+1.4 Админ
+1.5 Одитор
+
+2. Sequence-модели
+2.1 Цели на нерегистриран потребител
+2.1.1 
+2.2 Цели на регистриран потребител
+2.2.1
+2.3 Цели на брокер
+2.3.1
+2.4 Цели на админ
+2.4.1
+2.5 Цели на одитор
+2.5.1
+
+3. Artefact-модели
+3.1.1 Полета за логване
+3.1.2 Бланка за регистрация
+3.2 Чат
+3.3 Контакт форма
+3.4.1 Профил на админ
+3.4.2 Профил на брокер
+3.4.3 Профил на одитор
+3.4.4 Профил на обикновен потребител
+3.5 Обява
+3.6 Търсачка
+3.7 Одит лог
+3.8 (Google карта?) [Картата може ли да се натиска и да се отваря по-детайлна картина за адреса на имота?]
