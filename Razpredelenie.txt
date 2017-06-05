@@ -1,0 +1,24 @@
+===============Use_Case======================
+Alex - a-01, b-01, b-04
+Valio - a-02, b-02, b-03
+Ivan - b-05, c-01, c-06
+Jorkata - c-02, c-07
+Ivo T - c-03, c-08, c-11
+Ivo - c-04, c-09
+Bogi - c-05, c-10, c-12
+===============CD_models=====================
+Alex - iztrivane_na_lektor
+Valio - iztrivane
+Ivan - redaktirane
+Jorkata - dobavqne_na_staq
+Ivo T - zapazvane
+Ivo - vhod
+Bogi - dobavqne_na_lektor
+===============UML_diagram===================
+Alex - activity - dobavqne na lektor
+Valio - activity - durpane na informaciq
+Ivan - 
+Jorkata - sequence - dobavqne_na_staq
+Ivo T - state - request na rezervaciq
+Ivo - sequence - premahvane na staq
+Bogi - activity - redakciq na rezervaciq
